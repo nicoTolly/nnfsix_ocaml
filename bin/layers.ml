@@ -24,7 +24,6 @@ let x = [[|1.; 2.; 3.; 2.5|];
 
 let () = Random.self_init ()
 
-
 let layer1 = make_layer 4 5
 let layer2 = make_layer 5 2
 
